@@ -19,5 +19,5 @@ function shouting(string) {
 }
 
 function roundDown(number) {
-  return number.toFixed()
+  return Math.floor(number)
 }
