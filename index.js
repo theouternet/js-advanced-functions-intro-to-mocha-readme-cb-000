@@ -11,6 +11,9 @@ function sayHeyFriend(name) {
 }
 
 function favoriteIceCream(param) {
-  return ''
+  return `I love ${param}`
 }
   
+function shouting(string) {
+  return ${string}.toUpperCase
+}
